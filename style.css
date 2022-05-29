@@ -1,0 +1,42 @@
+.pictures{
+    height: 10cm;border-radius: 1rem;
+    position: relative;
+    left: 2.5%;
+    margin: 10px;
+     height: 600px;
+    ;
+}
+#zoom-in:hover{
+    transform: scale(1.2);
+    transition: linear;
+    border-style: inset; border-collapse: collapse;
+    
+}
+
+#font{
+    font-size: 500%; font-family: sans-serif;
+     color: rgb(198, 92, 16);text-shadow:
+     0 0 7px rgb(202, 134, 134);
+    position: relative;
+    left: 20%;
+    border-radius: rem;
+    
+}
+
+body{
+    background-image: url(/images/hd\ concert.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: hue;
+    background-position: 50%;
+    background-attachment: fixed;
+}
+
+html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+img{
+    box-shadow: 0px 0px 5px rgb(243, 221, 221);
+}
